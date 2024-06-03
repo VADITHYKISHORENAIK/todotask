@@ -1,0 +1,16 @@
+{
+  "name": "fancode-sdet",
+  "version": "1.0.0",
+  "description": "FanCode SDET Take Home Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
